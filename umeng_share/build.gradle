@@ -35,6 +35,5 @@ dependencies {
     implementation 'com.umeng.sdk:share-core:6.9.2'
     implementation 'com.umeng.sdk:share-wechat:6.9.2'
 
-    compileOnly  'com.umeng.umsdk:common:1.5.4'
-    compileOnly  'com.umeng.umsdk:utdid:1.1.5.3'
+    implementation 'com.github.niulinguo:UmengModule:v1.2'
 }
